@@ -18,7 +18,7 @@
 
    1. 下载我提供的文件包，解压后，检查准备程序和文件
 
-   2. ![01](/Users/zhangwenxing/Desktop/01.png)
+   2. ![01](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/01.png)
 
       检查文件，确保三个全部都在并且完整。
 
@@ -30,11 +30,11 @@
 
       （1）解压文件：
 
-      ![02](/Users/zhangwenxing/Desktop/02.png)
+      ![02](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/02.png)
 
       （2）下载完压缩包后，解压文件，如下图得到 **VBCABLE_Driver_Pack43** 整个文件夹。
 
-   #### ![03](/Users/zhangwenxing/Desktop/03.png)
+   #### ![03](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/03.png)
 
    
 
@@ -49,41 +49,41 @@
 
    ​	（1）按着下图的方法依次实现：新建场景，添加素材，设置混音器的音量
 
-   ![04](/Users/zhangwenxing/Desktop/04.png)
+   ![04](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/04.png)
 
    ​		（2）按着下图的的方法打开高级音频设置
 
-   ![05](/Users/zhangwenxing/Desktop/05.png)
+   ![05](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/05.png)
 
    ​	（3）设置音频监听方式（按着下图的方法）
 
-   ![06](/Users/zhangwenxing/Desktop/06.png)
+   ![06](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/06.png)
 
    ​	（4）设置监听输出设备（按着下图设置）
 
-   ​		![12](/Users/zhangwenxing/Desktop/12.png)
+   ​		![12](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/12.png)
 
-   ![14](/Users/zhangwenxing/Desktop/14.png)
+   ![14](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/14.png)
 
    ​	（5）整理素材文件到合适（想要什么效果看个人天赋）（下面仅为个人设置）
 
    ​			(PS:双击来源框里的素材即可打开文件属性)
 
-   ![07](/Users/zhangwenxing/Desktop/07.png)
+   ![07](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/07.png)
 
-   ![08](/Users/zhangwenxing/Desktop/08.png)
+   ![08](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/08.png)
 
    6.可以使用了😁
 
    ​	（1）打开两个软件，然后开启OBS里的开始虚拟摄像机
 
-   ![09](/Users/zhangwenxing/Desktop/09.png)
+   ![09](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/09.png)
 
    ​		（2）设置钉钉视频会议
 
-   ![10](/Users/zhangwenxing/Desktop/10.png)
+   ![10](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/10.png)
 
-   ![11](/Users/zhangwenxing/Desktop/11.png)
+   ![11](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/11.png)
 
    （！！！然后效果就是挂了一个视频在钉钉会议里，并且开麦就是电流声了！！！）
 
