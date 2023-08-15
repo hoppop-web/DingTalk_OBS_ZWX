@@ -6,8 +6,8 @@
 希望能够正确使用～🔞～🔞～🔞～
 
 #### 软件思路出处：
-***思路来自网络：https://blog.rachelt.one/articles/stream-privately-with-obs-and-virtual-cable/
-***软件全部来自网络（官网）
+*** 思路来自网络：https://blog.rachelt.one/articles/stream-privately-with-obs-and-virtual-cable/
+*** 软件全部来自网络（官网）
 
 
 
