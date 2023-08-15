@@ -4,7 +4,7 @@
    一个用来应对网课的方案，真的是，正经人谁上网课啊。
    使用软件：OBS  Virtual Audio Cables  钉钉视频会议。
    希望能够正确使用～🔞～🔞～🔞～
-
+   （！！！然后效果就是挂了一个视频在钉钉会议里，并且开麦就是电流声了！！！）
    #### 一：软件思路出处：
    **思路来自网络：https://blog.rachelt.one/articles/stream-privately-with-obs-and-virtual-cable/**
 
