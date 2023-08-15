@@ -17,6 +17,7 @@
    #### 二：安装教程
 
    1. 下载我提供的文件包，解压后，检查准备程序和文件
+        [点我下载文件包,点我，点我](https://dl-a10b-0585.mypikpak.com/download/?fid=ZdN-9X_b_UVhIASwPEbyvZcAZIBollPrbKfppQ8-3S8I3QGkBtTWX041EwD4zHP18tGfxYcXbIvuNZQapy1OAmDoZzT-vUu_tJ2oJhKlEDU=&from=5&verno=3&prod=1104&expire=1692158407&g=B9D0463700A0A0A40EA351FB647C9039DE045C01&ui=Y4f-VEdgyxaw80Wo&t=0&ms=6291456&th=6291456&f=135822690&alt=0&fileid=VNbrLMD4xD_1Q8xikRi5BBc4o1&userid=Y4f-VEdgyxaw80Wo&pr=XQPkPvr9WWiIuMvELmrVet4TUWGiJYmybGf8q2FEkCsj6BX4YFwYpH6ZV-k9BeyB9KWXMyFWPKhCI4385zwKGWr1jykaT-UbKNohKycqCLJq9Y8pGk_lGyjaISsnKgiybs2RQjtKldA34clJUdieI2E3nJox_NI-R09zuvhX-Yj3TLruebeOkMKx74sJARoIQJrN2eECov9SIGCfw9KWH0aRrr7WaRbmDCUHrh8crFvCCi6lXDasbepfwCwhY74oxfes53BUF8Dj6mF1-2S051GDhLHktQEXvZXwB_xQFLzh91aGlJE_vnNv-kb56dgOKzy6IC-PNiOLgaQZGLmhMn9UQYlYRnH826dZdsnepmC31dujKVo1YOvbAXr0GZ_RY66q2jgLNh6C56hQ5LEteBC_stqhP5DQZ8w1TPOjU_Ml2qR2d_vl2eHI9bXuDFpYgk0c9ubdhKnG5JXub3jtT5qW215bzcO8d_2Lx5vlcGOJE-MiKXEpDg0CrXH-Zf24fSPzlqam5BCbw2thxzYQTQ==&sign=D3CCC9BB2A5B247847F0196C002B4BBE)
 
    2. ![01](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/01.png)
 
