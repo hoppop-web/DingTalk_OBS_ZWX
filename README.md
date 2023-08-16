@@ -100,4 +100,4 @@
 
    1. 二中垫底学生：ZWX
    #### 五：支持（PS:仅限我认识的人）
-![fa_dian](https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/fa_dian.png)
+<img src="https://gitee.com/greenhats/ding-talk_-obs_-zwx/raw/master/PIC/fa_dian.png" alt="fa_dian" style="zoom:25%;" />
